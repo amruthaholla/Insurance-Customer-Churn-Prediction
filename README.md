@@ -10,7 +10,9 @@ To identify the key factors that influence customer churn and build predictive m
 - `churn_dataset.csv`: Dataset used for training and testing the models         
 
 ## Tools & Techniques
-**Languages & Libraries:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+**Languages & Libraries:** 
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 **Techniques:**
 - Data Cleaning & Imputation
 - Feature Engineering & Transformation
